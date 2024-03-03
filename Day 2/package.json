@@ -1,0 +1,22 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "Learning react Day 2",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant208/learning-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Prashant Raghuvanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant208/learning-react/issues"
+  },
+  "homepage": "https://github.com/prashant208/learning-react#readme"
+}
