@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/prashant208/learning-react/issues"
   },
-  "homepage": "https://github.com/prashant208/learning-react#readme"
+  "homepage": "https://github.com/prashant208/learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
